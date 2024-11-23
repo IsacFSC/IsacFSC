@@ -4,18 +4,6 @@
 - 🌱 Estou aprendendo Python (flask padrão "MVC"), PHP (Laravel) & MySQL (MVC), Javascript (VUE.JS)
 - 😄 Pronouns: ele/dele
 
-## Olá, eu sou Isac 👋
-
-- 🔭 Hoje eu trabalho com front-end e um pouco de back-end
-- 🌱 Estou aprendendo Python (flask padrão "MVC"), PHP (Laravel) & MySQL (MVC), Javascript (VUE.JS)
-- 😄 Pronouns: ele/dele
-
-## Olá, eu sou Isac 👋
-
-- 🔭 Hoje eu trabalho com front-end e um pouco de back-end
-- 🌱 Estou aprendendo Python (flask padrão "MVC"), PHP (Laravel) & MySQL (MVC), Javascript (VUE.JS)
-- 😄 Pronouns: ele/dele
-
 <p align="left">
     <a href="https://github.com/IsacFSC?tab=repositories&sort=stargazers">
         <img 
@@ -39,7 +27,6 @@
 </p>
 
 <div align="center">
-
     <img 
     align="center" 
     alt="HTML"
@@ -74,19 +61,19 @@
     />
     <img 
     align="center" 
-    alt="Vue.JS"
-    title="Vue.JS" 
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
     />
     <img 
     align="center" 
     alt="Flask" 
     title="Flask"
-    width="45px" 
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=000000" 
+    src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" 
     />
     <img 
     align="center" 
@@ -95,16 +82,7 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-    />
-    
-    <img 
-    align="center" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-    />
+    /> 
     <img 
     align="center" 
     alt="JQuery" 
@@ -113,23 +91,28 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
     />
-    
     <img 
     align="center" 
-    alt="Python" 
-    title="Python"
+    alt="Vue.JS"
+    title="Vue.JS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
+    />
+    <img 
+    align="center" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
     />
 </div>
     <br />
     <br />
-    
     <p align="center">
         ### 📊 Estatísticas
     </p>
-    
     <p align="center">
         <img 
         alt="GitHub Stats" 
@@ -137,12 +120,9 @@
         style="padding-right: 10px;" 
         src="https://github-readme-stats.vercel.app/api?username=IsacFSC&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
         />
-
         <img 
         alt="GitHub Stats" 
         height="200" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacFSC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
         />
-
     </p>
-
