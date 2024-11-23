@@ -4,7 +4,7 @@
 - 🌱 Estou aprendendo Python (flask padrão "MVC"), PHP (Laravel) & MySQL (MVC), Javascript (VUE.JS)
 - 😄 Pronouns: ele/dele
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/IsacFSC?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
