@@ -1,7 +1,8 @@
 ## Olá, eu sou Isac 👋
 
-- 🔭 Hoje eu trabalho com front-end e um pouco de back-end
-- 🌱 Estou aprendendo Python (flask padrão "MVC"), PHP (Laravel) & MySQL (MVC), Javascript (VUE.JS)
+- 🔭 Hoje eu trabalho com front-end e de back-end
+- 🌱 Possuo alguns conhecimentos em Python e suas bibliotecas, PHP (Laravel) e Typescript.
+    Mas estou focado no aprendizado contínuo sobre Flutter, React Native, React, NextJS, NestJS, Prisma.
 - 😄 Pronouns: ele/dele
 
 <p align="center">
