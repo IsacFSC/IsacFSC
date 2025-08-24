@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu trabalho com front-end e de back-end
 - 🌱 Possuo alguns conhecimentos em Python e suas bibliotecas, PHP (Laravel) e Typescript.
-    Mas estou focado no aprendizado contínuo sobre Flutter, React Native, React, NextJS, NestJS, Prisma.
+    Mas estou focado no aprendizado contínuo sobre Flutter, React Native, React, NextJS, NestJS, Prisma, tailwind CSS, Bootstrap.
 - 😄 Pronouns: ele/dele
 
 <p align="center">
