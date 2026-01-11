@@ -24,7 +24,6 @@ Desenvolvedor **Full Stack** focado em criar soluções robustas, escaláveis e 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Back-end & Database**
@@ -35,16 +34,30 @@ Desenvolvedor **Full Stack** focado em criar soluções robustas, escaláveis e 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Outros conhecimentos**
-`Python` • `PHP (Laravel)` • `Bootstrap` • `Zustand` • `React Query` • `Vitest`
+`PHP (Laravel)` • `Bootstrap` • `UploadThing` • `Resend`
 
 ---
 
 ### 📊 Estatísticas de Contribuição
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IsacFSC&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacFSC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" />
+
+    <img
+        alt="GitHub Stats" 
+        height="200" 
+        style="padding-right: 10px;" 
+        src="https://github-readme-stats.vercel.app/api?username=IsacFSC&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />
+    
+    <img
+        alt="GitHub Stats" 
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacFSC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=20" 
+    />
+
 </p>
+
+<br />
 
 ---
 
