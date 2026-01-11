@@ -1,129 +1,55 @@
-## Olá, eu sou Isac 👋
+## Olá, eu sou o Isac 👋 
 
-- 🔭 Hoje eu trabalho com front-end e de back-end
-- 🌱 Possuo alguns conhecimentos em Python e suas bibliotecas, PHP (Laravel) e Typescript.
-    Mas estou focado no aprendizado contínuo sobre Flutter, React Native, React, NextJS, NestJS, Prisma, tailwind CSS, Bootstrap.
-- 😄 Pronouns: ele/dele
+Desenvolvedor **Full Stack** focado em criar soluções robustas, escaláveis e de alto impacto. Atualmente, dedico meu conhecimento ao ecossistema **JavaScript/TypeScript**, construindo aplicações modernas com foco em performance e experiência do usuário.
+
+- 🔭 **Atualmente:** Desenvolvendo plataformas Full Stack com Next.js, Prisma e arquiteturas serverless.
+- 💡 **Diferencial:** Experiência com integração de APIs, bancos de dados relacionais e fluxos de automação de e-mails.
+- 🌱 **Evolução Contínua:** Aprofundando em NestJS para backends complexos e Flutter/React Native para soluções mobile.
+- 😄 **Pronomes:** Ele/Dele
 
 <p align="center">
     <a href="https://github.com/IsacFSC?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/IsacFSC?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+        <img alt="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/IsacFSC?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
     </a>
     <a href="https://github.com/IsacFSC?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/IsacFSC?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+        <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/IsacFSC?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
     </a>
 </p>
 
-<hr />
+---
+
+### 🚀 Tecnologias e Ferramentas
+
+**Front-end & Mobile**
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Back-end & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Outros conhecimentos**
+`Python` • `PHP (Laravel)` • `Bootstrap` • `Zustand` • `React Query` • `Vitest`
+
+---
+
+### 📊 Estatísticas de Contribuição
+
 <p align="center">
-    ### 🤖 Linguagens e Tecnologias
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IsacFSC&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacFSC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" />
 </p>
 
-<div align="center">
-    <img 
-    align="center" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-    />
-    <img 
-    align="center" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-    />
-    <img 
-    align="center" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-    />
-    <img 
-    align="center" 
-    alt="PHP"
-    title="PHP" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-    />
-    <img 
-    align="center" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-    />
-    <img 
-    align="center" 
-    alt="Flask" 
-    title="Flask"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" 
-    />
-    <img 
-    align="center" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-    /> 
-    <img 
-    align="center" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-    />
-    <img 
-    align="center" 
-    alt="Vue.JS"
-    title="Vue.JS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
-    />
-    <img 
-    align="center" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-    />
-</div>
-    <br />
-    <br />
-    <p align="center">
-        ### 📊 Estatísticas
-    </p>
-    <p align="center">
-        <img 
-        alt="GitHub Stats" 
-        height="200" 
-        style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=IsacFSC&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-        />
-        <img 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacFSC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=20" 
-        />
-    </p>
+---
+
+### 📫 Vamos nos conectar?
+Se você tem um projeto desafiador ou quer trocar uma ideia sobre tecnologia, sinta-se à vontade para entrar em contato!
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](SEU_LINK_DO_LINKEDIN_AQUI)
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](SEU_LINK_DO_WHATSAPP_AQUI)
