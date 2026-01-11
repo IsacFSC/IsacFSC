@@ -3,8 +3,8 @@
 Desenvolvedor **Full Stack** focado em criar soluções robustas, escaláveis e de alto impacto. Atualmente, dedico meu conhecimento ao ecossistema **JavaScript/TypeScript**, construindo aplicações modernas com foco em performance e experiência do usuário.
 
 - 🔭 **Atualmente:** Desenvolvendo plataformas Full Stack com Next.js, Prisma e arquiteturas serverless.
-- 💡 **Diferencial:** Experiência com integração de APIs, bancos de dados relacionais e fluxos de automação de e-mails.
-- 🌱 **Evolução Contínua:** Aprofundando em NestJS para backends complexos e Flutter/React Native para soluções mobile.
+- 💡 **Diferencial:** Experiência com integração de APIs, bancos de dados relacionais.
+- 🌱 **Evolução Contínua:** Aprofundando em NestJS para backends complexos e React Native para soluções mobile.
 - 😄 **Pronomes:** Ele/Dele
 
 <p align="center">
@@ -40,29 +40,33 @@ Desenvolvedor **Full Stack** focado em criar soluções robustas, escaláveis e 
 
 ### 📊 Estatísticas de Contribuição
 
+### 📊 Estatísticas
+
 <p align="center">
-
-    <img
-        alt="GitHub Stats" 
-        height="200" 
-        style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=IsacFSC&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    />
-    
-    <img
-        alt="GitHub Stats" 
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacFSC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=20" 
-    />
-
+  <img 
+    alt="GitHub Stats" 
+    height="190" 
+    src="https://github-readme-stats.vercel.app/api?username=IsacFSC&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    alt="GitHub Stats" 
+    height="190" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacFSC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=20" 
+  />
 </p>
-
-<br />
 
 ---
 
 ### 📫 Vamos nos conectar?
-Se você tem um projeto desafiador ou quer trocar uma ideia sobre tecnologia, sinta-se à vontade para entrar em contato!
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](SEU_LINK_DO_LINKEDIN_AQUI)
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](SEU_LINK_DO_WHATSAPP_AQUI)
+<p align="center">
+  <a href="SEU_LINK_DO_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/SEU_NUMERO_AQUI">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<br />
+---
