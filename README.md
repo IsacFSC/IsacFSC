@@ -41,7 +41,8 @@ Desenvolvedor **Full Stack** focado em criar soluções robustas, escaláveis e 
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="180" src="https://github-v-stats.vercel.app/api?username=IsacFSC&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IsacFSC&show_icons=true&theme=tokyonight&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IsacFSC&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
 ---
 
