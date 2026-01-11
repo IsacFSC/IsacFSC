@@ -38,21 +38,11 @@ Desenvolvedor **Full Stack** focado em criar soluções robustas, escaláveis e 
 
 ---
 
-### 📊 Estatísticas de Contribuição
-
 ### 📊 Estatísticas
 
 <p align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="190" 
-    src="https://github-readme-stats.vercel.app/api?username=IsacFSC&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="GitHub Stats" 
-    height="190" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacFSC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=20" 
-  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IsacFSC&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacFSC&layout=compact&theme=tokyonight" />
 </p>
 
 ---
