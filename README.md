@@ -4,7 +4,7 @@ Desenvolvedor **Full Stack** focado em criar soluções robustas, escaláveis e 
 
 - 🔭 **Atualmente:** Desenvolvendo plataformas Full Stack com Next.js, Prisma e arquiteturas serverless.
 - 💡 **Diferencial:** Experiência com integração de APIs, bancos de dados relacionais.
-- 🌱 **Evolução Contínua:** Aprofundando em NestJS para backends complexos e React Native para soluções mobile.
+- 🌱 **Evolução Contínua:** Aprofundando em NestJS para backends robustos e React Native para soluções mobile.
 - 😄 **Pronomes:** Ele/Dele
 
 <p align="center">
@@ -21,8 +21,8 @@ Desenvolvedor **Full Stack** focado em criar soluções robustas, escaláveis e 
 ### 🚀 Tecnologias e Ferramentas
 
 **Front-end & Mobile**
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -34,7 +34,7 @@ Desenvolvedor **Full Stack** focado em criar soluções robustas, escaláveis e 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Outros conhecimentos**
-`PHP (Laravel)` • `Bootstrap` • `UploadThing` • `Resend`
+`Google login socical` • `Checkout (Asaas, abacatepay, etc)` • `UploadThing (S3)` • `Resend (Mail)` • `jsPDF (PDF)` • `Copilot (IA prod)` • `Resend ()`
 
 ---
 
@@ -44,6 +44,7 @@ Desenvolvedor **Full Stack** focado em criar soluções robustas, escaláveis e 
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IsacFSC&show_icons=true&theme=tokyonight&locale=pt-br" />
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IsacFSC&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
+
 ---
 
 ### 📫 Vamos nos conectar?
@@ -56,6 +57,3 @@ Desenvolvedor **Full Stack** focado em criar soluções robustas, escaláveis e 
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-
-<br />
----
