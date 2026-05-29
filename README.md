@@ -50,7 +50,7 @@ Desenvolvedor **Full Stack** focado em criar soluções robustas, escaláveis e 
 ### 📫 Vamos nos conectar?
 
 <p align="center">
-  <a href="SEU_LINK_DO_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/isac-freitas-502a42289">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/SEU_NUMERO_AQUI">
